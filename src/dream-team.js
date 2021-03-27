@@ -17,5 +17,6 @@ module.exports = function createDreamTeam(members) {
       result.push(arr[0])
     }
   }
+
   return result.sort().join('');
 };

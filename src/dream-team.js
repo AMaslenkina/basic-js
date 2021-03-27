@@ -1,12 +1,13 @@
 const CustomError = require("../extensions/custom-error");
 
 module.exports = function createDreamTeam(members) {
-  if(!(members instanceof Array))
+  if(!(members instanceof Array)) {
     return false;
-
+  }
   if (members.length === 1) {
-    if ( typeof members[0] != 'string')
+    if ( typeof members[0] != 'string') {
       return false;
+    }
   }
 
   let result = []

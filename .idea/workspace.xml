@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc4d792b-9ac8-4c4d-955a-113ee6be3a64" name="Default Changelist" comment="" />
+    <list default="true" id="cc4d792b-9ac8-4c4d-955a-113ee6be3a64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extended-repeater.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/extended-repeater.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +35,7 @@
       <updated>1616864880308</updated>
       <workItem from="1616864881373" duration="3883000" />
       <workItem from="1616869373945" duration="2046000" />
-      <workItem from="1617025634306" duration="1520000" />
+      <workItem from="1617025634306" duration="2234000" />
     </task>
     <servers />
   </component>

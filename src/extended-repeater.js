@@ -2,11 +2,7 @@ const CustomError = require("../extensions/custom-error");
 
 module.exports = function repeater(str = '', options) {
   const string = String(str);
-  let repeatTimes = 1,
-   separator = '+',
-   addition = '',
-   additionRepeatTimes = 1,
-   additionSeparator = '|';
+  let repeatTimes = 1, separator = '+', addition = '', additionRepeatTimes = 1, additionSeparator = '|';
 
   if (options.hasOwnProperty('repeatTimes')){
     repeatTimes = options.repeatTimes;
